@@ -5,4 +5,5 @@
 3. U-Net Transformer: Self and Cross Attention for Medical Image Segmentation [Link](https://arxiv.org/abs/2103.06104)
 4. Attention Is All You Need [Link](https://arxiv.org/abs/1706.03762)
 5. WaveNet: A Generative Model for Raw Audio [Link](https://arxiv.org/abs/1609.03499)
-6. Convolutional Transformer
+6. Deep Residual Learning for Image Recognition [Link](https://arxiv.org/abs/1512.03385)
+7. Convolutional Transformer
